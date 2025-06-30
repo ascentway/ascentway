@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Ranjan</h1>
-<h3 align="center">Final-Year Engineering Student | Backend Developer | DevOps Enthusiast</h3>
+<h3 align="center">Recent Graduate B.Tech | Full Stack / Backend Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvranjan&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvranjan" />
