@@ -50,7 +50,7 @@
 |--------|-------------|
 | 🔌 [ChargeLink](https://github.com/ascentway/ChargeLinK) | EV Charging Station Management Platform with Spring Boot, JWT & Admin UI |
 | 🏥 [Online Doctor Appointment System](https://github.com/ascentway/Online-Appointment-System) | Web app with patient booking, slot scheduling, and health records |
-| ⚙️ [Hack Arya Verse Management] | Full-stack hackathon platform with GraphQL, Kafka, React + Material UI |
+| ⚙️ Hack Arya Verse Management | Full-stack hackathon platform with GraphQL, Kafka, React + Material UI |
 
 ---
 ### 🔗 Connect With Me
