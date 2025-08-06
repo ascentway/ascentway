@@ -10,9 +10,9 @@
 ### 🧠 About Me
 
 - 💻 I specialize in **Java | Spring Boot | Kafka | DevOps | PostgreSQL**
-- 🔭 Currently working on **Online Doctor Appointment System**
+- 🔭 Currently working on **Auto Billing System**
 - ⚙️ Passionate about building **scalable, event-driven architectures**
-- 🌐 Organizer of [Hack Arya Verse]
+- 🌐 Organizer of [Hack Arya Verse Hackathon]
 - 🌱 Learning **Kubernetes, gRPC & System Design**
 - 📫 Reach me at: **dhruvranjansharma@gmail.com**
 
