@@ -1,65 +1,48 @@
-<h1 align="center">Hi 👋, I'm Dhruv Ranjan</h1>
-<h3 align="center">Recent Graduate B.Tech | Full Stack / Backend Developer | DevOps Enthusiast</h3>
+# Hi, I’m **Dhruv Ranjan** 👋
+**Final-year IT grad • Backend & DevOps • Building production-ready apps**  
+📍 Noida, Uttar Pradesh • 📧 [dhruvranjansharma@gmail.com](mailto:dhruvranjansharma@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvranjan&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvranjan" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&pause=1000&color=000000&width=820&lines=Backend+%7C+Spring+Boot+%7C+Kafka+%7C+React;Building+Auto-Billing+System+%7C+GraphQL+%7C+Postgres)
+
+---
+
+## 🔭 Current focus
+Working on **Auto-Billing System** — full backend first: Spring Boot, Kafka, PostgreSQL, GraphQL + React + Tailwind frontend. Also building tenant dashboards & automated billing flows.
+
+*(Project highlights, internships & certs referenced from my resume).
+
+---
+
+## ⭐ Featured Projects
+> Click any repo to see the code, README, deploy links & demo GIFs (pin these on your profile)
+
+- **Auto-Billing-System** — Multi-tenant billing platform (Spring Boot, Kafka, GraphQL, PostgreSQL, React, Tailwind).  
+- **Online-Doctor-Appointment-System** — Appointments + digital health records (Spring Boot, React, Postgres).  
+- **Kaamgar-Sahayak-Junction** — Job matching for daily-wage workers (Spring Boot, React, PostgreSQL).  
+- **ChargeLink** — EV charging station locator & booking (Spring Boot, React, Google Maps API).
+
+---
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ascentway&show_icons=true&theme=tokyonight&count_private=true" alt="Dhruv's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascentway&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 💻 I specialize in **Java | Spring Boot | Kafka | DevOps | PostgreSQL**
-- 🔭 Currently working on **Auto Billing System**
-- ⚙️ Passionate about building **scalable, event-driven architectures**
-- 🌐 Organizer of [Hack Arya Verse Hackathon]
-- 🌱 Learning **Kubernetes, gRPC & System Design**
-- 📫 Reach me at: **dhruvranjansharma@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvranjan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvranjan&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvranjan&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔌 [ChargeLink](https://github.com/ascentway/ChargeLinK) | EV Charging Station Management Platform with Spring Boot, JWT & Admin UI |
-| 🏥 [Online Doctor Appointment System](https://github.com/ascentway/Online-Appointment-System) | Web app with patient booking, slot scheduling, and health records |
-| ⚙️ Hack Arya Verse Management | Full-stack hackathon platform with GraphQL, Kafka, React + Material UI |
-
----
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhruvranjan)  
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:dhruvranjansharma@gmail.com)
-
----
-
-### ⚡ Fun Fact
-> I automate everything... even this README 🤖
+## 💬 About / Quick Pitch
+I love building robust backends and shipping full-stack features end-to-end. Interned at **Celebal Technologies** and **Vanillakart** — practical experience in containerization, Azure, Git, and front-end dev. Open to backend or full-stack roles; flexible on tech stack and eager to learn new tools.
 
