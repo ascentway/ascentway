@@ -1,5 +1,5 @@
 # Hi, I’m **Dhruv Ranjan** 👋
-**Final-year IT grad • Backend & DevOps • Building production-ready apps**  
+**IT graduate • Fullstack Developer • Building production-ready apps**  
 📍 Noida, Uttar Pradesh • 📧 [dhruvranjansharma@gmail.com](mailto:dhruvranjansharma@gmail.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&pause=1000&color=000000&width=820&lines=Backend+%7C+Spring+Boot+%7C+Kafka+%7C+React;Building+Auto-Billing+System+%7C+GraphQL+%7C+Postgres)
